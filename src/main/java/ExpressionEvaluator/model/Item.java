@@ -1,4 +1,4 @@
-package JsonRuleEngine.model;
+package ExpressionEvaluator.model;
 
 public class Item {
 	private String name;
